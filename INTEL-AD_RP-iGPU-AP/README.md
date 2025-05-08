@@ -1,3 +1,5 @@
+
+
 # ACC-L3-01-INTEL-AI-enabled-Container
 
 
@@ -25,13 +27,13 @@ The  ACC-L3-01-INTEL-AI-enabled-Container is a Retinopathy detection demo Contai
 | Target Hardware | ARK-3534 |
 | iGPU | Intel UHD Graphics 770 |
 | Memory | 16 ~ 64 GB shared CPU memory |
-| OpenVINO | 2023.1.0.12185 |
+| OpenVINO Runtime SDK | 2023.1.0.12185 |
 
 ## Software Components
 
 | Component | Version | Description |
 |-----------|---------|-------------|
-| OpenVINO | 2023.1.0.12185 | OpenVINO is SW toolkit for optimizing and deploying deep learning models. |
+| OpenVINO Runtime| 2023.1.0.12185 |  OpenVINO Runtime provides AI framework run Model inference, and deploy applications |
 | OpenCV | 4.7.0 | Computer vision library |
 
 
@@ -42,7 +44,6 @@ The  ACC-L3-01-INTEL-AI-enabled-Container is a Retinopathy detection demo Contai
 | Model Family | Versions | Performance (FPS) | Quantization Support |
 |--------------|----------|-------------------|---------------------|
 | YOLO | X | YOLOX: 7 @ 1280x720 | INT8, FP16, FP32 |
-
 
 
 ## Quick Start Guide
@@ -61,6 +62,5 @@ sudo docker run -it --privileged=true --ipc host --device /dev/dri:/dev/dri --de
 
 ```
 
-
-
 Copyright © 2025 Advantech Corporation. All rights reserved.
+
