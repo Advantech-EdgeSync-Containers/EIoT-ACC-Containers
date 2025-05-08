@@ -25,9 +25,9 @@ The  ACC-L3-01-INTEL-AI-enabled-Container is a Retinopathy detection demo Contai
 | Component | Specification |
 |-----------|---------------|
 | Target Hardware | ARK-3534 |
+| CPU | 12th&13th Gen Intel® i3/i5/i7/i9 |
 | iGPU | Intel UHD Graphics 770 |
 | Memory | 16 ~ 64 GB shared CPU memory |
-| OpenVINO Runtime SDK | 2023.1.0.12185 |
 
 ## Software Components
 
