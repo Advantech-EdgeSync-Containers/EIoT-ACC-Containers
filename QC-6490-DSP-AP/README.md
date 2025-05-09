@@ -7,7 +7,7 @@
 
 ## Overview
 
-The ACC-L2-01-Qualocmm-AI-enabled-Container is a Object detection demo Container on Qualcomm QCS6490 DSP.
+The ACC-L2-01-Qualocmm-AI-enabled-Container is an Object detection demo Container on Qualcomm QCS6490 DSP.
 
 ### Key Features
 
